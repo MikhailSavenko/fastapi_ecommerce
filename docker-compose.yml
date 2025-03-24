@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres
+    container_name: postgres_ecommerce
+    environment:
+      POSTGRES_USER: ecommerce
+      POSTGRES_PASSWORD: misha123
+      POSTGRES_DB: ecommerce
+    ports:
+      - 5555:5432

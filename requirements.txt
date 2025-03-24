@@ -1,0 +1,10 @@
+fastapi==0.115.11
+SQLAlchemy==2.0.39
+alembic==1.15.1
+python-slugify==8.0.4
+asyncpg==0.30.0
+passlib==1.7.4
+bcrypt==4.0.1
+python-multipart==0.0.20
+pyJWT==2.10.1
+uvicorn[standard]
