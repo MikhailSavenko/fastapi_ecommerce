@@ -1,0 +1,4 @@
+Log: [e088d911-dc14-46a2-866a-181e039baa42]:2025-03-25T19:05:21.918576+0300 - INFO - Successfully accessed/
+Log: [d0351900-b599-4801-be81-df5588b815f6]:2025-03-25T19:05:24.399746+0300 - WARNING - Request to /test failed
+Log: [37e8cdff-9aa9-4060-a793-79069abf8cb6]:2025-03-25T19:07:22.883300+0300 - INFO - Successfully accessed/
+Log: [0ed2c37e-4e03-47df-80c4-8fe349d229a9]:2025-03-25T19:07:28.093386+0300 - WARNING - Request to /sdds failed
